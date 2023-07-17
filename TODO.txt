@@ -1,0 +1,5 @@
+* switch in / out jacks (in should be on the right)
+* expose i2c for a potential oled screen
+* expose headers for buttons and rotary encoder
+* split audio vs digital ground
+
