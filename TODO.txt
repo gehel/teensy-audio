@@ -1,3 +1,2 @@
 * expose headers for buttons and rotary encoder
-* split audio vs digital ground
 
