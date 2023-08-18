@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 4.2,
-          "width": 2.0
+          "drill": 1.016,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -439,11 +439,11 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "Default",
+        "netclass": "Audio",
         "pattern": "LINE*"
       },
       {
-        "netclass": "Default",
+        "netclass": "Audio",
         "pattern": "JACK*"
       }
     ]
